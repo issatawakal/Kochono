@@ -1,0 +1,77 @@
+body{
+	background: grey;
+	<font-language-override: inherit;
+}
+h1{
+	border: 3px solid;
+	border-color: blue;
+	border-radius: 30px;
+	border-width: 7px;
+	background-color: grey;
+	color: white;
+	text-align: center;
+}
+#mc{
+	color: red;
+	background: greenyellow;
+	text-align: center;
+	font-size: 50px;
+}
+.ict{
+	color: yellowgreen;
+	font-family: algerian;
+	font-size: 30px;
+	text-align: center;
+
+}
+div{
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 40px;
+	margin-top: 20px;
+	border: 2px solid;
+	background-color:lightblue;
+	border-width: 4px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+a{
+	color: orange;
+	font-size: 25px;
+	text-decoration: none;
+	background: black;
+
+}
+a:hover{
+	color: yellow;
+	background: pink;
+}
+a:visited{
+	color: white;
+}
+ol{
+	color: red;
+	font-size: 25px;
+	font-family: agency fb;
+}
+table,th,tr,td{
+	border: 2px solid;
+	background: orange;
+	border-color: white;
+}
+th{
+	background: blue;
+}
+h1:hover{
+	color: red;
+	background: black;
+	font-family: castellar;
+}
+h1:hover{
+	background: greenyellow;
+	text-align: center;
+	color: orange;
+	text-decoration: underline;
+}
